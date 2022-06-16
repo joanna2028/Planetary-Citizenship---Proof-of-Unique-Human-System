@@ -8,7 +8,7 @@ W3ID - Planet Earth Citizenship v0.1
 A Proof-of-Unique-Human System
                                                     
                                                      “The Rights of Citizenship”
-Abstract.is based on pseudonym events, global and simultaneous verification events that occur at the exact same time for every person on Earth. In these events, people are randomly paired together, 1-on-1, to verify that the other is a person, in a pseudo-anonymous context. 
+Abstract.Planet Earth is based on pseudonym events, global and simultaneous verification events that occur at the exact same time for every person on Earth. In these events, people are randomly paired together, 1-on-1, to verify that the other is a person, in a pseudo-anonymous context. 
 
 
 Introduction 
