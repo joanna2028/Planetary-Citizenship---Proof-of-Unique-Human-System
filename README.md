@@ -140,7 +140,7 @@ Public keys are exchanged along with the numbers, as part of the encrypted messa
 
 
 
-
+function halftime(uint _t) public pure returns (bool) { return(block.timestamp > toSeconds(_t)+period/2); }
 
 
 
