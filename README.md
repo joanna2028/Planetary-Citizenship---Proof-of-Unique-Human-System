@@ -11,7 +11,7 @@ A Proof-of-Unique-Human System
 Abstract. Planet Earth Citizenship is based on pseudonym events, global and simultaneous verification events that occur at the exact same time for every person on Earth. In these events, people are randomly paired together, 1-on-1, to verify that the other is a person, in a pseudo-anonymous context. 
 
 
-Introduction 
+#Introduction 
 
 Planetary Citizenship is a population registry for a new global society that is built on top of the internet. It provides a simple way to give every human on Earth a proof-of-unique-human, and does so in a way that cannot exclude or reject a human being, as long as the average person in the population would recognize them as human. This means it is incapable of shutting anyone out, and that it will inherently form a single global population record, that integrates every single human on Earth. It is incapable of discrimination, because it is incapable of distinguishing one person from another, since it has absolutely zero data about anyone. It’s incapable of discriminating people by gender, sexuality, race or belief. The population registry also has infinite scalability. The pairs, dyads, are autonomous units and the control structure of Planetary Citizenship. Each pair is concerned only with itself, compartmentalized, operating identically regardless of how many times the population doubles in size. 
 Pseudonym events, a new population registry
