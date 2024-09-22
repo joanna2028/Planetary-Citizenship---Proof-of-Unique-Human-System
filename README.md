@@ -1,7 +1,6 @@
 PLANETARY DAO
 Technical White Paper 
 2022-06-15
- Joanna A. Picetti§  joanna@jp.network
 
 
 W3ID - Planet Earth Citizenship v0.1 
